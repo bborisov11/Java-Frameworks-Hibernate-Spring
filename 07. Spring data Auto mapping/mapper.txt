@@ -1,0 +1,3 @@
+Employee employee = this.employeeRepository.findOne(1L);
+ ModelMapper mapper = new ModelMapper();
+        EmployeeDto dto = mapper.map(employee,EmployeeDto.class);

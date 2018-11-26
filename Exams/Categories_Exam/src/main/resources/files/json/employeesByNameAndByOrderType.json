@@ -1,0 +1,485 @@
+{
+  "employeeName": "Avery Rush",
+  "orders": [
+    {
+      "customer": "Pablo",
+      "items": [
+        {
+          "name": "Bacon Deluxe",
+          "price": 9.00,
+          "quantity": 2
+        },
+        {
+          "name": "Bacon Deluxe",
+          "price": 9.00,
+          "quantity": 2
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Minion",
+          "price": 2.20,
+          "quantity": 2
+        },
+        {
+          "name": "Minion",
+          "price": 2.20,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "customer": "Bobbie",
+      "items": [
+        {
+          "name": "Bacon Deluxe",
+          "price": 9.00,
+          "quantity": 2
+        },
+        {
+          "name": "Bacon Deluxe",
+          "price": 9.00,
+          "quantity": 2
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Minion",
+          "price": 2.20,
+          "quantity": 2
+        },
+        {
+          "name": "Minion",
+          "price": 2.20,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "customer": "Stacey",
+      "items": [
+        {
+          "name": "Bacon Deluxe",
+          "price": 9.00,
+          "quantity": 2
+        },
+        {
+          "name": "Bacon Deluxe",
+          "price": 9.00,
+          "quantity": 2
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Minion",
+          "price": 2.20,
+          "quantity": 2
+        },
+        {
+          "name": "Minion",
+          "price": 2.20,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "customer": "Joann",
+      "items": [
+        {
+          "name": "Bacon Deluxe",
+          "price": 9.00,
+          "quantity": 2
+        },
+        {
+          "name": "Bacon Deluxe",
+          "price": 9.00,
+          "quantity": 2
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Minion",
+          "price": 2.20,
+          "quantity": 2
+        },
+        {
+          "name": "Minion",
+          "price": 2.20,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "customer": "Pablo",
+      "items": [
+        {
+          "name": "Bacon Deluxe",
+          "price": 9.00,
+          "quantity": 2
+        },
+        {
+          "name": "Bacon Deluxe",
+          "price": 9.00,
+          "quantity": 2
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Minion",
+          "price": 2.20,
+          "quantity": 2
+        },
+        {
+          "name": "Minion",
+          "price": 2.20,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "customer": "Joann",
+      "items": [
+        {
+          "name": "Bacon Deluxe",
+          "price": 9.00,
+          "quantity": 2
+        },
+        {
+          "name": "Bacon Deluxe",
+          "price": 9.00,
+          "quantity": 2
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Minion",
+          "price": 2.20,
+          "quantity": 2
+        },
+        {
+          "name": "Minion",
+          "price": 2.20,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "customer": "Stacey",
+      "items": [
+        {
+          "name": "Bacon Deluxe",
+          "price": 9.00,
+          "quantity": 2
+        },
+        {
+          "name": "Bacon Deluxe",
+          "price": 9.00,
+          "quantity": 2
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Minion",
+          "price": 2.20,
+          "quantity": 2
+        },
+        {
+          "name": "Minion",
+          "price": 2.20,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "customer": "Bobbie",
+      "items": [
+        {
+          "name": "Bacon Deluxe",
+          "price": 9.00,
+          "quantity": 2
+        },
+        {
+          "name": "Bacon Deluxe",
+          "price": 9.00,
+          "quantity": 2
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Tuna Salad",
+          "price": 3.00,
+          "quantity": 3
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Luigi",
+          "price": 2.10,
+          "quantity": 4
+        },
+        {
+          "name": "Minion",
+          "price": 2.20,
+          "quantity": 2
+        },
+        {
+          "name": "Minion",
+          "price": 2.20,
+          "quantity": 2
+        }
+      ]
+    }
+  ]
+}
