@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Allopurinol",
+    "price": 518.50,
+    "seller": "Fox"
+  },
+  {
+    "name": "equaline",
+    "price": 520.45,
+    "seller": "Christina Patterson"
+  },
+  {
+    "name": "Gemcitabine",
+    "price": 594.79,
+    "seller": "Wanda Harris"
+  },
+  {
+    "name": "Foaming Hand Sanitizer",
+    "price": 624.72,
+    "seller": "Clarence Fowler"
+  },
+  {
+    "name": "ziprasidone hydrochloride",
+    "price": 628.66,
+    "seller": "Carl Lawson"
+  },
+  {
+    "name": "GOONG SECRET CALMING BATH",
+    "price": 742.47,
+    "seller": "Gloria Alexander"
+  },
+  {
+    "name": "Isosorbide Mononitrate",
+    "price": 789.91,
+    "seller": "Doris Cook"
+  },
+  {
+    "name": "Clarins Paris Skin Illusion - 114 cappuccino",
+    "price": 811.42,
+    "seller": "Fred Barnes"
+  },
+  {
+    "name": "Moore Medical Sinus Pain and Pressure Relief",
+    "price": 855.39,
+    "seller": "Mitchell"
+  },
+  {
+    "name": "Levothyroxine Sodium",
+    "price": 885.86,
+    "seller": "Ann Stevens"
+  },
+  {
+    "name": "Aspirin",
+    "price": 925.45,
+    "seller": "Peterson"
+  }
+]
